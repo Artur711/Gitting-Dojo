@@ -17,6 +17,11 @@ def add():
     return a + b
 
 
+def shout():
+    print("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
+
+
 introduce()
 add()
 joke()
+shout()
