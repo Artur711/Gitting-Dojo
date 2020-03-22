@@ -1,4 +1,6 @@
-print("Hello, I'm Gittie!")
+def introduce():
+    print("My name is Andrzej and i'm lazy today :P ")
+    print("Hello, I'm Gittie!")
 
 
 def joke():
@@ -11,11 +13,6 @@ def add():
     a = input("a: ")
     b = input("b: ")
     return a + b
-
-
-def introduce():
-    print("My name is Andrzej and i'm lazy today :P ")
-
 
 add()
 joke()
