@@ -19,6 +19,7 @@ def add():
 
 def shout():
     print("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
+    print("Aaaaa!!!")
 
 
 introduce()
