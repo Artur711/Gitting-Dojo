@@ -6,10 +6,17 @@ def joke():
          Patient: What do you mean, 10? 10 what? Months? Weeks?!\
              Doctor: Nine.")
 
+
 def add():
     a = input("a: ")
     b = input("b: ")
     return a + b
 
+
+def introduce():
+    print("My name is Andrzej and i'm lazy today :P ")
+
+
 add()
 joke()
+introduce()
